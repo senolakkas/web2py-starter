@@ -15,7 +15,7 @@ def index():
 
 
 def about():
-    response.view_title = 'Aboutt'
+    response.view_title = 'About'
     return dict()
 
 
